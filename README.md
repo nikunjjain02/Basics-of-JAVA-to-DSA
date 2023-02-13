@@ -1,2 +1,4 @@
-# Basics of Data Structure and Algorithms
-This repository contains various programs which are generally made to do in college Labs as assignment or either practice.
+# Basics of JAVA to DSA in JAVA
+ Hey Folks!!
+ Here in this repository I will be uploading the pracice programs sequentially which Iam learning.
+ In this repository you will be able to find programs in JAVA[Basics] to DSA in JAVA in order.
